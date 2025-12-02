@@ -1,0 +1,1 @@
+SELECT * FROM springdao_db.customer;
